@@ -164,3 +164,50 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
+
+.trainers {
+    text-align: center;
+}
+
+.trainer {
+    width: 56.25em;
+    margin: 0 auto 1.875em auto;
+    background: #024e76;
+    color: #fce138;
+    overflow: auto;
+}
+
+.trainer img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 2.1875em;
+    float: left;
+    width: 65%;
+}
+
+.trainer-bio h3 {
+    font-size: 2em;
+    margin-bottom: .5em;
+}
+
+.trainer-bio h4 {
+    font-weight: lighter;
+    font-size: 1.625em;
+    margin-bottom: 1.5625em;
+}
+
+.trainer-bio p {
+    font-size: 1.0625em;
+    line-height: 1.3;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
