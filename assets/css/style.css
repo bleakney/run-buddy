@@ -112,3 +112,55 @@ section {
 }
 /* Hero Style End */
 
+.intro {
+    text-align: center;
+}
+
+.intro p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 1.25em;
+    margin: 0 auto;
+}
+
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+.steps div {
+    margin-bottom: 5em;
+}
+.steps img {
+    width: 15%;
+    margin: 0.625em 0; 
+}
+.steps h3 {
+    color: #024e76;
+    font-size: 2.875em;
+    margin-top: 0.625em;
+}
+.steps p {
+    color: #39a6b2;
+    font-size: 1.4375em;
+}
+.steps span {
+    font-size: 0.8260869565217391em;
+}
+
+.section-title {
+    font-size: 3.4375em;
+    color: #024e76;
+    margin-bottom: 2.1875em;
+    padding: 0 6.25em 1.25em 6.25em;
+    display: inline-block;
+    border-bottom: 0.1875em solid;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
+}
