@@ -55,3 +55,60 @@ footer div {
 footer a {
     color: #024e76;
 }
+
+section {
+    padding: 3.75em;
+}
+
+/* Hero Style Start */
+.hero {
+    background-image: url(../images/hero-bg.jpg);
+    height: 37.5em;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.hero-form {
+    background-color: #fce138;
+    padding: 1.25em;
+    width: 31.25em;
+    color: #024e76;
+    border: solid 0.1875em #024e76;
+    position: absolute;
+    bottom: 7.5em;
+    right: 8.75em;
+}
+
+.hero-form h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.hero-form p {
+    margin: 0.3125em 0 0.9375em 0;
+}
+
+.form-input {
+    border: 0.0625em solid #024e76;
+    display: block;
+    padding: 0.4375em 0.9375em;
+    font-size: 1em;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 0.9375em;
+}
+
+.hero-form label {
+    margin: 0 0.3125;
+}
+
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 0.625em 1.25em;
+    font-size: 1em;
+}
+/* Hero Style End */
+
