@@ -12,3 +12,5 @@ https://bleakney.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Bleakney Bissett
+
+# Run Buddy Inc.
